@@ -1,9 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Translation Application
 
-Currently, two official plugins are available:
+This project is a translation application developed using Redux Toolkit, Redux Thunk. It allows you to translate text from one language to another.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# translate-redux
+
+https://github.com/sevcan01/translate-redux/assets/127621405/190c65b3-ee9f-4551-8f1c-292249b930c1
+
